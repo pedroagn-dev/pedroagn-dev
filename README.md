@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Galhardo
 
 <div align="flex-start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b1nzyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1nzyy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
@@ -17,7 +17,7 @@
 
 ## ⚡ GitHub Contributions
 
-![Pedro's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=b1nzyy)
+![Pedro's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedroagn-dev)
   
 ##
 
