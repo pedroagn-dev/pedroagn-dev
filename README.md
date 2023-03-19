@@ -1,27 +1,25 @@
-### Olá! Eu sou Pedro Augusto
+<h1>Olá, eu sou Pedro Augusto!</h1>
 
-<div align="flex-start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagn-dev&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark" alt="GitHub Contribution Stats" />
 </div>
 
-<br>
+<h2>Linguagens e Ferramentas:</h2>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
+  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
+</p>
 
-## ⚡ GitHub Contributions
-
-![Pedro's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=pedroagn-dev)
-  
-##
-
-<div> 
-  <a href="mailto:pedroagnm@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-galhardo-nogueira-03632322a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<h2>Contato:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/seu-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-seu-linkedin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:seu-email@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seu-email-red?style=flat-square&logo=gmail"></a>
+</p>
