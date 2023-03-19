@@ -1,39 +1,27 @@
-## Olá, eu sou o Pedro Augusto 👋
+### Olá! Eu sou o Pedro Augusto 👋
 
-### Sobre mim
+Sou um desenvolvedor web em busca constante de aprendizado e evolução. Atualmente, tenho me dedicado ao desenvolvimento com Node.js, React e outras tecnologias do ecossistema JavaScript.
 
-Sou apaixonado por tecnologia e sempre em busca de novos desafios. Adoro trabalhar em equipe e ajudar as pessoas a encontrar soluções tecnológicas. Atualmente trabalho como desenvolvedor full-stack.
+- 🔭 Atualmente estou trabalhando na [XXX](link da empresa)
+- 🌱 Atualmente estou estudando Node.js e React
+- 👯 Estou procurando colaborar em projetos de código aberto
+- 💬 Pergunte-me sobre desenvolvimento web e tecnologias JavaScript
+- 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/pedro-augusto-3a25521b6/)
+- 😄 Pronomes: Ele/Dele
 
-### Linguagens e ferramentas
+### Tecnologias e Ferramentas:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=flat" alt="Express.js" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
 
-### Projetos recentes
+### GitHub Analytics
 
-- [Projeto 1](https://github.com/pedroaugusto/project1)
-- [Projeto 2](https://github.com/pedroaugusto/project2)
-
-### Estudando
-
-- Node.js
-- React
-
-### Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&count_private=true&theme=dark)
+<div>
+  <a href="https://github.com/pedroagn-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagn-dev&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 ### Contribuições
 
-![Gráfico de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=pedroagn-dev&theme=dark)
+[![pedroagn-dev's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=pedroagn-dev&bg_color=20232a&color=ffffff&line=ffffff&point=1d76db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### Contato
-
-- E-mail: pedro.augusto@gmail.com
-- LinkedIn: https://www.linkedin.com/in/pedroaugusto/
