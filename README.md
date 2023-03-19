@@ -1,25 +1,39 @@
-<h1>Olá, eu sou Pedro Augusto!</h1>
+## Olá, eu sou o Pedro Augusto 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagn-dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark" alt="GitHub Contribution Stats" />
-</div>
+Sou apaixonado por tecnologia e sempre em busca de novos desafios. Adoro trabalhar em equipe e ajudar as pessoas a encontrar soluções tecnológicas. Atualmente trabalho como desenvolvedor full-stack.
 
-<h2>Linguagens e Ferramentas:</h2>
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" />
-</p>
+### Linguagens e ferramentas
 
-<h2>Contato:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/seu-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-seu-linkedin-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:seu-email@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-seu-email-red?style=flat-square&logo=gmail"></a>
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat" alt="Express.js" />
+
+### Projetos recentes
+
+- [Projeto 1](https://github.com/pedroaugusto/project1)
+- [Projeto 2](https://github.com/pedroaugusto/project2)
+
+### Estudando
+
+- Node.js
+- React
+
+### Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&count_private=true&theme=dark)
+
+### Contribuições
+
+![Gráfico de contribuições](https://github-readme-streak-stats.herokuapp.com/?user=pedroagn-dev&theme=dark)
+
+### Contato
+
+- E-mail: pedro.augusto@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pedroaugusto/
