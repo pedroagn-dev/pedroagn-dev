@@ -2,11 +2,11 @@
 
 Sou um desenvolvedor web em busca constante de aprendizado e evolução. Atualmente, tenho me dedicado ao desenvolvimento com Node.js, React e outras tecnologias do ecossistema JavaScript.
 
-- 🔭 Atualmente estou trabalhando na [XXX](link da empresa)
+- 🔭 Atualmente estou trabalhando como freelancer
 - 🌱 Atualmente estou estudando Node.js e React
 - 👯 Estou procurando colaborar em projetos de código aberto
 - 💬 Pergunte-me sobre desenvolvimento web e tecnologias JavaScript
-- 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/pedro-augusto-3a25521b6/)
+- 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/pedro-galhardo-nogueira-03632322a/)
 - 😄 Pronomes: Ele/Dele
 
 ### Tecnologias e Ferramentas:
