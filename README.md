@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Galhardo
+### Olá! Eu sou Pedro Augusto
 
 <div align="flex-start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
