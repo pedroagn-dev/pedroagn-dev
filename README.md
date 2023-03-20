@@ -1,27 +1,44 @@
-### Olá! Eu sou o Pedro Augusto 👋
+<h1 align="center"> Olá, eu sou o Pedro Augusto </h1>
 
-Sou um desenvolvedor web em busca constante de aprendizado e evolução. Atualmente, tenho me dedicado ao desenvolvimento com Node.js, React e outras tecnologias do ecossistema JavaScript.
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js"/>
+</p>
 
-- 🔭 Atualmente estou trabalhando como freelancer
-- 🌱 Atualmente estou estudando Node.js e React
-- 👯 Estou procurando colaborar em projetos de código aberto
-- 💬 Pergunte-me sobre desenvolvimento web e tecnologias JavaScript
-- 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/pedro-galhardo-nogueira-03632322a/)
-- 😄 Pronomes: Ele/Dele
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagn-dev&langs_count=8&hide_border=true&layout=compact&theme=dark" alt="Most Used Languages">
+</p>
 
-### Tecnologias e Ferramentas:
+<p align="center">
+  <a href="mailto:pedroagnm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/pedro-augusto-nogueira-6a16b5146/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://github.com/pedroagn-dev"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/></a>
+</p>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+---
 
-### GitHub Analytics
+## Sobre mim
 
-<div>
-  <a href="https://github.com/pedroagn-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroagn-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroagn-dev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+Desde criança sou fascinado por tecnologia e me encantei com a ideia de que eu poderia construir coisas que poderiam melhorar a vida das pessoas. Sou um programador curioso, entusiasta e apaixonado por resolver problemas e construir coisas novas.
 
-### Contribuições
+## Estudando
 
-[![pedroagn-dev's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=pedroagn-dev&bg_color=20232a&color=ffffff&line=ffffff&point=1d76db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Estou sempre buscando aprender coisas novas e atualmente estou estudando as tecnologias:
 
+- Node.js
+- React
+
+## Experiência
+
+- Trabalho como desenvolvedor full-stack na empresa XPTO desde 2020.
+- Desenvolvimento de projetos pessoais utilizando tecnologias web, como HTML, CSS e JavaScript.
+
+## Contribuições no GitHub
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=pedroagn-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Contributions"/>
+</p>
