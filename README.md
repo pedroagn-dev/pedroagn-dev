@@ -33,8 +33,6 @@ Estou sempre buscando aprender coisas novas e atualmente estou estudando as tecn
 - React
 
 ## Experiência
-
-- Trabalho como desenvolvedor full-stack na empresa XPTO desde 2020.
 - Desenvolvimento de projetos pessoais utilizando tecnologias web, como HTML, CSS e JavaScript.
 
 ## Contribuições no GitHub
